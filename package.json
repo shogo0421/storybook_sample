@@ -1,0 +1,10 @@
+{
+  "name": "sample-project",
+  "private": true,
+  "workspaces": {
+    "packages": [
+      "test-app",
+      "storybook"
+    ]
+  }
+}
